@@ -6,8 +6,9 @@ import MoreDetail from "./components/MoreDetail";
 function App() {
   return (
     <div className="App">
-      
+      //
     </div>
+  //
   );
 }
 
