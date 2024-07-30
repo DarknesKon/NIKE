@@ -9,6 +9,7 @@ import ProductList from "../components/Products/ProductList";
 
 const ProductsPage = () => {
   return (
+    //
     <div>
       <Box sx={{ width: "100%" }}>
         <UpNavbar />
